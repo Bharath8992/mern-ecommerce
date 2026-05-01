@@ -53,11 +53,11 @@ The application demonstrates essential full-stack development concepts including
 
 ### Home Page
 
-![Home](img/home page.png)
+![Home](img/home_page.png)
 
 ### Product Listing
 
-![Listing](img/listing.png)
+![Listing](img/listing_page.png)
 
 ### Product Detail Page
 
